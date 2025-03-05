@@ -12,7 +12,6 @@ Eventually, I wrote the test campaign report and presented it to an examiner.
 2. Updated test specification document
 3. Jira board containing all the created anomalies tickets 
 
-### Spoiler alert ⚠️
-OpenClassrooms is a French MOOC (Massive Open Online Course). The projects produced as part of their trainings are destined to be evaluated by French examiners.\
-For this reason, all the present project content is in French.\
-I apologize in advance for any inconvenience.
+### Notice ⚠️
+OpenClassrooms is a French institution. The projects produced as part of their trainings are destined to be evaluated by French examiners.\
+For this reason, all the present project content is in French.
