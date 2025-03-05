@@ -2,9 +2,9 @@
 Project n°5 of the OpenClassrooms software testing's diploma course
 
 ## Description
-724events is a fictive event agency. In this project, I was in charge of executing the test campaign on the first version of their website. 
-My responsibilities were to execute the manual tests written in the test specification document, as well as executing exploratory tests. 
-Furthermore, I had to update the test specification document to add the test cases tested during the exploratory testing sessions, and to report all the anomalies found using Jira. 
+724events is a fictive event agency. In this project, I was in charge of executing the test campaign on the first version of their website.\ 
+My responsibilities were to execute the manual tests written in the test specification document, as well as executing exploratory tests.\
+Furthermore, I had to update the test specification document to add the test cases tested during the exploratory testing sessions, and to report all the anomalies found using Jira.\
 Eventually, I wrote the test campaign and presented it to an examiner.
 
 ## Content
@@ -13,6 +13,6 @@ Eventually, I wrote the test campaign and presented it to an examiner.
 3. Jira board containing all the created anomalies tickets 
 
 ### Spoiler alert ⚠️
-OpenClassrooms is a French MOOC (Massive Open Online Course). The projects produced as part of their trainings are destined to be evaluated by French examiners.
-For this reason, all the present project content is in French.
+OpenClassrooms is a French MOOC (Massive Open Online Course). The projects produced as part of their trainings are destined to be evaluated by French examiners.\
+For this reason, all the present project content is in French.\
 I apologize in advance for any inconvenience.
