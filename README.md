@@ -5,7 +5,7 @@ Project n°5 of the OpenClassrooms software testing's diploma course
 724events is a fictive event agency. In this project, I was in charge of executing the test campaign on the first version of their website.\
 My responsibilities were to execute the manual tests written in the test specification document, as well as executing exploratory tests.\
 Furthermore, I had to update the test specification document to add the test cases tested during the exploratory testing sessions, and to report all the anomalies found using Jira.\
-Eventually, I wrote the test campaign and presented it to an examiner.
+Eventually, I wrote the test campaign report and presented it to an examiner.
 
 ## Content
 1. Test campaign report
